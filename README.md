@@ -1,7 +1,60 @@
 # FuckEClassFjBigStudy
-干翻福建省易班大学习\n
+干翻福建省易班大学习
 
-pip install requests\n
-pip install pycryptodome\n
-pip install getpass\n
-python FuckFjBigStudy.py
+# 使用说明：
+
+本指南将指导你如何配置和运行代码，以便自动完成福建省易班大学习任务。
+
+---
+
+## 环境准备
+
+在运行代码之前，请确保你的环境满足以下条件：
+
+- 已安装 **Python 3.6** 或更高版本
+- 网络环境支持访问外部服务
+
+---
+
+## 安装依赖
+
+在命令行中依次执行以下命令安装所需依赖库：
+
+```bash
+pip install requests
+pip install pycryptodome
+pip install getpass
+
+
+### 依赖库说明
+
+- **requests**：用于发送 HTTP 请求。
+- **pycryptodome**：用于加密/解密操作。
+- **getpass**：用于安全输入密码。
+
+---
+
+## 使用方法
+
+1. 确保所有依赖已正确安装。
+2. 将代码文件 **`FuckFjBigStudy.py`** 下载到本地。
+3. 在命令行中执行以下命令运行脚本：
+   ```bash
+   python FuckFjBigStudy.py
+   ```
+4. 按提示操作，输入必要的用户信息（如账户名、密码等）。
+
+---
+
+## 注意事项
+
+- **安全性**：请确保在安全的环境中运行此脚本，以保护用户隐私。
+- **合法性**：请仅在法律允许的范围内使用此脚本，任何滥用行为后果自负。
+
+---
+
+## 声明
+
+本项目仅供学习和技术交流使用，严禁将其用于非法用途。如因不当使用导致任何后果，开发者概不负责。
+
+---
