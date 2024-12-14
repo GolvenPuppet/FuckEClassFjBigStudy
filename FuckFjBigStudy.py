@@ -4,11 +4,11 @@ from Crypto.Cipher import PKCS1_v1_5
 from base64 import b64encode
 import requests
 from urllib.parse import urlparse
-from difflib import SequenceMatcher
+#from difflib import SequenceMatcher
 import getpass
 import time
 
-from combineDB import combineWithExam,combineWithSelfStudy
+#from combineDB import combineWithExam,combineWithSelfStudy
 
 '''TEST'''
 
